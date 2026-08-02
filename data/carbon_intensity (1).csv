@@ -1,0 +1,3 @@
+Scenario,CO2_feedstock_credit_t,Process_electricity_t,Compression_t,Distillation_t,Other_electrical_t,Net_CI_t_CO2_t
+Solar electricity,-1.375,0.071,0.028,0.027,0.016,-1.304
+Indian grid,-1.375,1.014,0.398,0.384,0.232,-0.361

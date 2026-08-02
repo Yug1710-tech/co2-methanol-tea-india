@@ -1,0 +1,17 @@
+Criterion,Green_Methanol,Green_Ammonia,Notes
+H2_consumption_t_t,0.189,0.176,Per tonne product
+CO2_fixed_t_t,1.929,0,Permanent sequestration
+Carbon_intensity_solar_t_CO2_t,-1.304,0.143,Gate-to-gate
+Carbon_intensity_grid_t_CO2_t,-0.361,0.412,Gate-to-gate
+Synthesis_pressure_bar,50,200,
+Storage_type,Ambient liquid 1.5 bar,Refrigerated -33C,
+TCI_MUSD,55.2,48.7,
+LCOM_USD_t,1127,765,At $3.50/kg H2
+Effective_LCOM_50USD_CO2,767,842,With carbon pricing
+NPV_at_1000USD_t_MUSD,-108,98,Marine fuel price
+IRR_pct,0,24,Baseline
+Payback_yr,0,3.4,
+Marine_fuel_offtake,Established >60 vessels,Speculative,Maersk CMA CGM MSC
+Port_handling,Standard terminal 2M,Cryogenic facility 15M,
+Safety_class,Class 3 flammable,Class 2.3 toxic,
+Indian_fabrication,Full 50 bar,Partial 200 bar import-dependent,

@@ -1,0 +1,5 @@
+Scenario,H2_price_USD_kg,LCOM_USD_t,NPV_MUSD,IRR_pct,Payback_yr,DSCR,Bankability
+No waiver baseline,3.50,1127,-108,0,0,0.38,Not bankable
+Partial waiver 50pct,3.00,1027,12,8,12.5,1.05,Marginal
+Full ISTS waiver,2.00,752,211,28,3.2,3.43,Strong
+NGHM 2030 target,1.00,502,424,48,1.8,4.45,Excellent

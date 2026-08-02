@@ -1,0 +1,8 @@
+Cost_Item,Annual_Cost_MUSD,Share_Pct,Notes
+Green hydrogen,87.44,82.3,H2 price $3.50/kg
+CO2 feedstock,16.85,15.9,Blended $45/t
+Electricity non-hydrogen,0.82,0.8,Gujarat industrial $0.07/kWh
+Catalyst replacement,0.14,0.1,3-year cycle $0.42M
+Labour,0.43,0.4,15 operators + 3 supervisors
+Maintenance and overhead,0.54,0.5,Standard factorial
+Total OPEX,106.22,100.0,

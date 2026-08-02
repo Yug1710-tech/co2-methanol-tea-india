@@ -1,0 +1,6 @@
+Source,T_C,P_bar,H2_CO2_ratio,Literature_XCO2_pct,Notes
+Portha_et_al_2017,250,50,5.0,33.2,Thermodynamic calculation
+Portha_et_al_2017,270,80,3.0,29.5,Thermodynamic calculation
+Perez_Fortes_et_al_2016,260,78,3.0,28.0,Process design study
+Graaf_et_al_1988,250,50,3.0,20.8,Near-equilibrium experimental
+This_work_design,250,50,3.0,23.8,Coupled adiabatic solve

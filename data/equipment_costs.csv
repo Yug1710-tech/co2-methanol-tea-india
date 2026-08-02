@@ -1,0 +1,12 @@
+Tag,Description,Material,Size_Duty,Cost_MUSD,Location_Factor,Adjusted_Cost_MUSD,Notes
+C-101,Feed compressor (CO2+H2) 2-stage centrifugal,SS 316,5.0 MW 1.0->50 bar,5.19,0.97,5.97,Import + 15% duty
+R-101,Methanol synthesis reactor (x6 modules),SS316/SA-387,1.52m x 7.62m 13.8m3 each,1.41,0.72,1.02,Domestic fabrication
+E-101,Feed-effluent heat exchanger shell-and-tube,SS 316,450 m2 dTmin=10K,0.34,0.97,0.39,Import + 15% duty
+E-102,Product cooler air-cooled,Carbon steel,120 m2 2450 kW,0.28,0.72,0.20,Domestic
+V-101,Flash separator vertical drum,SS 316,2.0m x 4.5m 48 bar,0.18,0.72,0.13,Domestic
+C-102,Recycle compressor single-stage centrifugal,SS 316,2.0 MW 48->50 bar,2.88,0.97,3.31,Import + 15% duty
+T-101,Distillation column sieve trays,SS 316,1.5m x 14.5m 24 stages,0.42,0.72,0.30,Domestic
+E-103,Overhead condenser cooling water,Carbon steel,420 kW,0.19,0.72,0.14,Domestic
+E-104,Reboiler high-pressure steam,Carbon steel,680 kW 10 bar steam,0.16,0.72,0.12,Domestic
+P-101/102,Product and reflux pumps centrifugal,SS 316,2x15 kW,0.15,0.72,0.11,Domestic
+TK-101/102,Storage tanks,Carbon steel,2x500 m3,0.42,0.72,0.30,Domestic

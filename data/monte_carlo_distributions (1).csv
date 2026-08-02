@@ -1,0 +1,8 @@
+Parameter,Distribution,Mean,Std_Dev,Min,Max,Shape1,Shape2,Notes
+H2_price_USD_kg,Lognormal,3.50,0.70,2.0,6.0,mu=1.232,sigma=0.198,Skewed: electrolyser cost reduction
+Methanol_price_USD_t,Normal,1000,150,500,1500,,,Marine fuel benchmark
+CO2_cost_USD_t,Triangular,45,,25,75,mode=45,,Blended portfolio
+Electricity_USD_kWh,Normal,0.07,0.0105,0.04,0.10,,,Gujarat industrial
+CAPEX_MUSD,Triangular,55.2,,44.2,69.0,mode=55.2,,Asymmetric overrun risk
+OPEX_multiplier,Uniform,1.00,,0.90,1.10,,,General uncertainty
+Capacity_factor,Normal,0.90,0.045,0.75,1.00,,,Solar-wind hybrid
