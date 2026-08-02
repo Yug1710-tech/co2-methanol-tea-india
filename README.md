@@ -317,7 +317,6 @@ Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India
 
 ⭐ **Star this repository if you find it useful!**
 
-🔬 Built with rigorous thermodynamics in **Surat, Gujarat** 🇮🇳
 
 </div>
 ```
